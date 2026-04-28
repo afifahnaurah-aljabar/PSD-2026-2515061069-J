@@ -73,7 +73,8 @@ output
 - Jilbab: Rp.15.000
   total: Rp 30.000
 
-  selesai.
+  link:
+  https://youtu.be/aN32gyVtehM?si=ddmsCl-Fmge6AeBD
   
 
 
