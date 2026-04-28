@@ -18,7 +18,8 @@ lalu pada baris ke 4 sampai 6 terdapat pilihan barang yang tersedia
 
 lalu print("4. selesai & bayar").
 
-image 2 
+image 2 "C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2026-04-28 195716.png"
+
 
 def main() baris 9: mendeklarasikan fungsi utama main.
 keranjang = [] baris 10: untuk menyimpan item atau barang yang dibeli pelanggan.
@@ -29,6 +30,8 @@ sedang belanja = true.
 
 image 3
 
+https://github.com/afifahnaurah-aljabar/tugas-aljabar-matriks-kelompok-5/issues/1#issue-4344012092
+
 while sedang berjalan: perulangan bernilai = True
 tampilkan menu() memanggil fungsi menunjukkan daftar item yang tersedia.
 pilihan 1,2,3
@@ -37,6 +40,8 @@ int berapa banyak barang yang dibeli pelanggan (misalnya: jilbab 30.00 x 1) = 30
 print: berhasil menambahkan ke keranjang. berhasil.
 
 image 4
+
+https://github.com/afifahnaurah-aljabar/tugas-aljabar-matriks-kelompok-5/issues/2#issue-4344036326
 
 
 pada elif pilihan == 4 variabel 
