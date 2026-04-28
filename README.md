@@ -6,7 +6,7 @@ list 2D pada python dimana diawal jumlah barang belanja atau item  pelangan di m
 ringkasan atau total belanja dari pelangan.
 
 source code:
-
+![this is image].()
 
 
 
