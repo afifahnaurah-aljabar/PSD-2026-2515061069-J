@@ -1,4 +1,4 @@
-Tugas akhir percobaan 1 list
+Tugas akhir percobaan 1 list 2D
 
 judul projek: sistem belanja barang
 
