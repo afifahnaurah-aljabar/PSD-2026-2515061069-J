@@ -9,4 +9,17 @@ source code:
 https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/a75b2e934f326311502e4249b4e21889239aaca8/Screenshot%202026-04-28%20195647.png
 
 
+pada gambar tersebut def tampilkan menu berisi baris untuk mendeklarasiakan menu
+lalu print "menu toko baju" yaitu untuk mencetak judul menu
+lalu pada baris ke 4 sampai 6 terdapat pilihan barang yang tersedia
+- Kemeja: Rp. 10.000
+- Celana: Rp. 5.000
+- Jilbab: Rp. 15.000
+
+lalu print("4. selesai & bayar").
+
+image 2
+
+
+
 
