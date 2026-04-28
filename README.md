@@ -1,12 +1,17 @@
 Tugas akhir percobaan 1 list
+
 judul projek: sistem belanja barang
 
 proyek ini adalah sistem yang digunakan untuk mempermudah pelangan dalam memesan barang atau pakaian. disini saya menggunakan
 list 2D pada python dimana diawal jumlah barang belanja atau item  pelangan di masukkan lalu pada akhir (selesai) tertera
 ringkasan atau total belanja dari pelangan.
 
-source code:
-https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/a75b2e934f326311502e4249b4e21889239aaca8/Screenshot%202026-04-28%20195647.png
+source code
+
+image 1
+
+
+<img width="518" height="199" alt="Image" src="https://github.com/user-attachments/assets/77c3b7c4-eb3b-4c9c-af7f-a0d1c0b52cca" />
 
 
 pada gambar tersebut def tampilkan menu berisi baris untuk mendeklarasiakan menu
@@ -18,7 +23,11 @@ lalu pada baris ke 4 sampai 6 terdapat pilihan barang yang tersedia
 
 lalu print("4. selesai & bayar").
 
-image 2 "C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2026-04-28 195716.png"
+image 2 
+
+
+<img width="728" height="220" alt="Image" src="https://github.com/user-attachments/assets/f11d7ebb-72f4-4649-b7f2-f8080a88cb09" />
+
 
 
 def main() baris 9: mendeklarasikan fungsi utama main.
@@ -30,7 +39,9 @@ sedang belanja = true.
 
 image 3
 
-https://github.com/afifahnaurah-aljabar/tugas-aljabar-matriks-kelompok-5/issues/1#issue-4344012092
+
+<img width="921" height="337" alt="Image" src="https://github.com/user-attachments/assets/6aecc06a-4941-4838-8afc-0d5a38f1f54f" />
+
 
 while sedang berjalan: perulangan bernilai = True
 tampilkan menu() memanggil fungsi menunjukkan daftar item yang tersedia.
@@ -41,7 +52,10 @@ print: berhasil menambahkan ke keranjang. berhasil.
 
 image 4
 
-https://github.com/afifahnaurah-aljabar/tugas-aljabar-matriks-kelompok-5/issues/2#issue-4344036326
+
+
+<img width="735" height="466" alt="Image" src="https://github.com/user-attachments/assets/cea81eb6-52e0-4f04-b6a8-86a8a737807d" />
+
 
 
 pada elif pilihan == 4 variabel 
