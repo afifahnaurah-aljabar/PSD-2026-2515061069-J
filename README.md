@@ -79,5 +79,4 @@ output
 
 
 
-  Screenshot 2026-05-03 082513.png
-
+![image Alt](image_url)https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/main/Screenshot%202026-05-03%20082513.png?raw=true
