@@ -83,6 +83,8 @@ adlah list sebelum diurutkan: (2,4,3,5[2,4,3,5]).
 hasil: (2,3,4,5 (Bubble Sort): 2,3,4,4).
 adalah hasil akhir atau outputnya dari pengurutan kartu dari yang terkecil ke yang terbesar (Ascending).
 
+link youtube:  https://youtu.be/DXxfT8WKZRY?si=Fv9NTOEfQcaaSsvI
+
 
 
 
