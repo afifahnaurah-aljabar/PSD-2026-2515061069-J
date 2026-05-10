@@ -62,7 +62,21 @@ jumlahnya.
 
 
 
-link youtube: 
+
+link youtube:
+
+
+
+
+
+TUGAS TAMBAHAN BINARY SEARCH INTERPOLATION OUTPUTNYA
+source code:
+
+![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/a98c4ee23412e370072942d0310c02efd49c44fb/Screenshot%202026-05-10%20185142.png?raw=true)
+![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/4b79613fb4845f570d8b6994cd2a51668439a096/Screenshot%202026-05-10%20185011.png?raw=true)
+![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/adddfa2bba1064c9a5cab35010e208cfa1a5a823/Screenshot%202026-05-10%20185238.png?raw=true)
+
+
 
 
 
