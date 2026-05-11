@@ -74,15 +74,31 @@ TUGAS TAMBAHAN BINARY SEARCH INTERPOLATION
 source code:
 
 ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/5434e66543bd6d03b9aec24e715dc979aef33457/Screenshot%202026-05-11%20130735.png?raw=true)
+
+
 ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/9f6e999fdfed2e8c9b1404491b8e78ef536329cf/Screenshot%202026-05-11%20130751.png?raw=true)
 
+penjelasan: 
+
+def main():
+data : daftar angka atau nilai
+n = len(data): untuk menghitung jumlah elemen dalam list, digambar tersebut ada 12 elemen.
+print : menampilkan isi list
+While True : perulangan samapi input yang dimasukkan benar
+target : input nilai yang ingin dicari
+except ValueError : mengatasi masalah saat menginputkan selain angka.
+if pos != -1 : jika hasil bukan -1, maka angka ditemukan
+print : menampilkan posisi indeks dimulai dari 0.
 
 
 
 
 
 
-output:
+
+
+
+output jika memasukkan nilai berikut:
 
 
 ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/a98c4ee23412e370072942d0310c02efd49c44fb/Screenshot%202026-05-10%20185142.png?raw=true)
