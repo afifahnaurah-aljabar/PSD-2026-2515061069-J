@@ -73,6 +73,9 @@ TUGAS TAMBAHAN BINARY SEARCH INTERPOLATION
 
 source code:
 
+![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/5434e66543bd6d03b9aec24e715dc979aef33457/Screenshot%202026-05-11%20130735.png?raw=true)
+![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/9f6e999fdfed2e8c9b1404491b8e78ef536329cf/Screenshot%202026-05-11%20130751.png?raw=true)
+
 
 
 
