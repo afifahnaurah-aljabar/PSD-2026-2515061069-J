@@ -1,9 +1,14 @@
 TUGAS AKHIR JUDUL 3 SEARCHING
 
+
+
 PROJEK: PENCARIAN DATA NILAI UTS MAHASISWA
+
 
 pencarian nilai uts mahasiswa saya menggunakan linear search atau sequential search
 dengan sekumpulan data nilai mahasiswa yang belum terurut.
+
+
 
 source code:
 
@@ -22,6 +27,10 @@ lalu return counter: jika semua elemen selesai diperiksa dengan perulangan, maka
 
 
 
+
+
+
+
 source code 2:
 
 
@@ -30,6 +39,11 @@ source code 2:
 
 
 penjelasan:
+
+
+
+
+
 
 
 data: berisi sekumpulan angak acak [70, 80, 30, 60, 70, 40, 30, 80, 50]. 
@@ -48,6 +62,9 @@ print(f"Angka {target} tidak ditemukan. ") : jika tidak ada atau 0, maka tampilk
 
 output/hasil: 
 
+
+
+
 ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/d806624a2f18879cef97d1e5107e870bbf212211/Screenshot%202026-05-09%20191150.png?raw=true)
 ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/6a70d0cdaa9b12f20dddc2c2ed3ee62a28e29c43/Screenshot%202026-05-09%20191222.png?raw=true)
 ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/5a43ca33551493af17df1e2ffb96994549f9550c/Screenshot%202026-05-09%20191244.png?raw=true)
@@ -65,6 +82,12 @@ jumlahnya.
 
 link youtube:
 
+
+
+
+
+
+https://youtube.com/shorts/8lEXIGp_nnw?si=CIU_vTpB6LHOwrm-
 
 
 
