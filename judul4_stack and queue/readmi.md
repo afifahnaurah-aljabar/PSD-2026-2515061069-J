@@ -78,7 +78,7 @@ penjelasan:
   - jika kita memilih 3 fungsi peek
   - maka stack kosong ini adalah respon dari program bahwa data belum ada data yang dimasukkan (push) dalam stack dan tidak ada elemen yang dapat dilihat oleh peek
  
-    link youtube: 
+    link youtube: https://youtu.be/CxXeV8lrmnA?si=350Je3Doblai7VQ_
     
 
 
