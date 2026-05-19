@@ -61,4 +61,25 @@ penjelasan:
     output
     code:
 
-    !{alt text](?raw=true) 
+   ![alt text](https://github.com/afifahnaurah-aljabar/tugas-aljabar-matriks-kelompok-5/blob/8601f1d5e2e830c342e8c6fa0bcd08759f310757/Screenshot%202026-05-19%20194254.png?raw=true)
+
+
+  penjelasan:
+  - pilih 1 dengan fungsi push
+  - nilai 24 untuk ditambahkan ke stack
+  - push 24 berhasil ditambahkan ke stack
+
+
+  code:
+
+  ![alt text](https://github.com/afifahnaurah-aljabar/tugas-aljabar-matriks-kelompok-5/blob/63b92bb977a2486c1d94c28691abe9f9eda70dee/Screenshot%202026-05-19%20194301.png?raw=true)
+
+  penjelasan:
+  - jika kita memilih 3 fungsi peek
+  - maka stack kosong ini adalah respon dari program bahwa data belum ada data yang dimasukkan (push) dalam stack dan tidak ada elemen yang dapat dilihat oleh peek
+ 
+    link youtube: 
+    
+
+
+  
