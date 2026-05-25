@@ -1,5 +1,5 @@
 TUGAS AKHIR JUDUL 5 BINARY SEARCH TREE (BST) DASAR
-- PENYIMPANAN ID MAHASISWA
+- PENYIMPANAN ID MAHASISWA DENGAN 5 ANGKA YAITU [40, 50, 60, 70, 80]
   
 
 SOURCE CODE:
@@ -138,4 +138,107 @@ penjelasan:
   - except ValueError : saat pengguna menginputkan selain angka atau memasukkan huruf, maka program akan masuk ke bagian blok ini
   - print("input tidak valid" ) : adalah tempat menampilkan pesan jika terjadi kesalahan atau jika menginputkan selain angka
   - continue : adalah perintah dari program untuk mengabaikan sisa kode dibawahnya lalu kembali ke awal loop while untuk mengambil input secara ulang
+
+
+
+  ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/d626dcb730c6ed199be32279b408498c1ad4bcbf/Screenshot%202026-05-24%20194004.png?raw=true)
+
+
+-  try : adalah tempat penangganan error misalnya kita memasukkan selain angka
+-  x = int(input("masukkan nilai : ")) : adalah untuk mengambil nilai dari yang kita inputkan dan akan diubah jadi angka bulat integer
+-  bst.insert(x) : adalah untuk memanggil fungsi insert dan menempatkan x ke posisi yang benar dalam tree
+-  print(f" nilai {x} berhasil dimasukkan") : adalah tempat untuk menampilkan pesan bahwa penggunaan f string berhasil
+-  except ValueError : adalah pada saat input yang kita masukkan bukan angka, maka program akan melewati baris
+-  print("input tidak valid!") : adalah pesan yang muncul saat terjadi kesalahan input yang dimasukkan
+-  elif pilih == 2: program berjalan saat kita memilih menu 2 dalam tree
+-  try : tempat penanganan error saat salah masukan yaitu selain angka
+-  x = int(input("cari nilai: ")) : adalah program meminta kita memasukkan angka yang mau kita cari
+-  if bst.search(x) : adalah pemanggilan fungsi search (x) atau mengembalikan nilai true jika angka ditemukan, dan false jika angka tidak ditemukan
+-  print("ditemukan") : adalah jika angka yang dimasukkan ditemukan true dia akan muncul seperti ini
+-  else : adalah jika angka yang dimasukkan false
+-  print("tidak ditemukan") : adalah pesan yang jika angka yang dicari tidak ditemukan
+-  except ValueError : jika kesalahan terjadi atau salah memasukkan input selain angka
+-  print("input tidak valid!") : pesan peringatan jika input salah dimasukkan
+
+
+
+
+![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/0b9e15cb77806277a7b6e2b4bfa6c6269d7dbf2d/Screenshot%202026-05-24%20194015.png?raw=true)
+
+
+
+penjelasan 
+
+
+- elif pilih == 3 : adalah untuk menampilkan total nilai dalam tree inorder atau dari terkecil ke terbesar
+- elif pilih == 4 : adalah untuk menampilkan nilai preorder atau dari akar, kiri, dan kanan
+- elif pilih == 5 : adalah untuk menampilkan nilai postorder atau dari kiri, kanan, adan akar
+- elif pilih == 6 (min) : adalah untuk mencari serta menampilkan nilai terkecil dalam tree
+- elif pilih == 7 (max) : adalah untuk mencari serta menampilkan nilai terbesar dalam tree
+- elif pilih == 8 (jumlah node) : adalah untuk menghitung berapa banyak elemen yang ada dalam tree
+- elif pilih == 9 (jumlah nilai) : adalah untuk menjumlahkan total nilai dari angka yang tersimpan dalam tree
+- elif pilih == 10 : adalah tempat pesan "program selesai". atau end.
+
+
+![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/d432fb8c493cae8882c98a61580b71120a159aaf/Screenshot%202026-05-24%20194023.png?raw=true)
+
+
+
+penjelasan
+
+
+- #--- Implementasi ---: adalah penandabahwa bagian kode dibawahnya adalah tahap proses program
+- bst = BSTDasar() : adalah baris instalasi yang membuat objek baru bernama bst dari class BSTDasar
+- id_mahasiswa = [40, 50, 60, 70, 80] : adalah id mahasiswa dalam list berisi 5 angka
+- for id in id_mahasiswa : adalah perintah loop dan kode akan mengambil setiap angka dalam list id_mahasiswa satu per satu untuk diproses program
+- bst.insert(data) : adalah untuk memasukkan data ke dalam tree
+- print('ID mahasiswa yang tersimpan di BST :") : adalah untuk menampilkan teks sebagai keterangan bagi kita sebelum data ditampilkan
+- bst. inorder(bst.root) : adalah untuk memanggil inorder untuk menelusuri tree in order kiri, akar, dan kanan.
+
+output: 
+
+
+  ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/fe749cb3e9114fb56d4b1e08471b23f00efe4c13/Screenshot%202026-05-24%20195624.png?raw=true)
+
+
+  penjelasan:
+
+  - tambahkan ID (insert) : menambahkan data ID baru ke tree
+  - cari ID (search) : untuk mencari keberadaan ID tertentu dalam tree
+  - tampilkan inorder : untuk menaampilkan semua ID ururannya left-root-right dan akan menghasilkan data yang terurut dari data terkecil ke data terbesar
+  - tampilkan preorder : untuk menmpilkan ID urutannya root-left-right
+  - tampilkan postorder : untuk menampilkan ID urutannya left-right-root
+  - ID terkecil (min) : adalah untuk menemukan dan menampilkan nilai ID paling kecil (cabang kecil)
+  - ID terbesar (mac) : adalah untuk menemukan dan menampilkan nilai ID paling bbesar (cabang kanan)
+  - total mahasiswa : adalah untuk menghitung total node yang disimpan dalam tree
+  - sum nodes : adalah untuk menjumlahkan nilai total ID yang ada dalam tree
+  - keluar : adalah akhir dari proses pemrograman
+  - kita pilih 1 misalnya untuk nambahin data ke tree
+  - lalu masukkan nilai 100 misalnya (ID baru)
+  - dan nilai 100 berhasil dimasukkan ke dalam struktur tree
+
+ouput kedua:
+
+- misalnya kita pilih angka = 7
+- lalu akan keluar nilai max yaitu = 100
+
+![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/d1a87c9933a42c2fe56946218fa5ec2a274e86ab/Screenshot%202026-05-24%20195733.png?raw=true)
+
+jelaskan:
+
+
+- misalnya kita pilih angka 8
+- maka jumlah nodenya yaitu 1 atau merupakan hasil reset atau penambahan baru karena menu diatas adalah 6.
+
+- misalnya kita masukkan angka 7
+- maka jumlah max nya yaitu 100 atau nilai tertinggi.
+
+
+
+link youtube :
+
+
+
+
+
   
