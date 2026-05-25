@@ -233,7 +233,7 @@ jelaskan:
 
 
 
-link youtube :
+link youtube :  https://youtu.be/VDj91B7_m9Q?si=9W0la_5aFAlZM2bV
 
 
 
