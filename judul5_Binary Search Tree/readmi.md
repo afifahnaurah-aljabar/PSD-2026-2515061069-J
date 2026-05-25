@@ -121,9 +121,7 @@ penjelasan:
 
 
 
-  ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/d075a69f166334749accfd13d097652500f412f0/Screenshot%202026-05-24%20193942.png?raw=true)
-
-
+  ![alt text](https://github.com/afifahnaurah-aljabar/Aljabar-matriks-tugas-/blob/ae76d198b1cefc788b2e318f985b6a587577480a/Screenshot%202026-05-25%20185141.png?raw=true)
 
   penjelasan:
 
