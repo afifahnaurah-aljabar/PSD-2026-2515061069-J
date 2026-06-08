@@ -172,11 +172,18 @@ SOURCE CODE OUTPUT:
 - indeks 2 sampai 6 : berstatus EMPTY atau kosong dan belum diisi data sebelumnya
 - indeks 8 : berisi data "Zia"
 - indeks 9 : berstatus DELETED : sebagai penanda sebelumnya terisi data pada slot ini, tapi telah dihapus
-- operasi : key 'Yona' masih ditemukan, value = 085436293749 : yang menunjukkan pencarian  berhasil menemukan data dengan key "Yona" pada tabel hash map serta mengembalikan velue berupa nomor telepon yang telah tersimpan
+- operasi : key 'Yona' masih ditemukan, value = 085436293749 : yang menunjukkan pencarian  berhasil menemukan data dengan key "Yona" pada tabel hash map serta mengembalikan velue berupa nomor telepon yang telah tersimpan.
 
 
 
-link youtube: 
+
+
+
+
+
+
+
+link youtube: https://youtu.be/w0GfPyXwP0Q?si=6yV6SsmWr0nG7gp8
 
 
 
